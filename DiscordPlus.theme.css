@@ -42,16 +42,16 @@
 .theme-light {
   --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
   
-  --dplus-accent-color-hue: 320;
-  --dplus-accent-color-saturation: 60%;
-  --dplus-accent-color-lightness: 31%;
+  --dplus-accent-color-hue: 167;
+  --dplus-accent-color-saturation: 98%;
+  --dplus-accent-color-lightness: 100%;
   
-  --dplus-foreground-color-hue-base: 210;
+  --dplus-foreground-color-hue-base: 259;
   --dplus-foreground-color-hue-links: 197;
   --dplus-foreground-color-saturation-amount: 1;
   --dplus-foreground-color-lightness-amount: 1;
 
-  --dplus-background-color-hue: 320;
+  --dplus-background-color-hue: 144;
   --dplus-background-color-saturation-amount: 1;
   --dplus-background-color-lightness-amount: 1;
   --dplus-background-color-alpha: 0.8;
